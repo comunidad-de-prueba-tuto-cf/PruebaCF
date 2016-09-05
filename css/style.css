@@ -143,7 +143,7 @@ img.fl {margin:4px 10px 0 0; }
 
 /*---- color -----*/
 .red{color: #ea4800;}
-.oranje {color: #fc9f10!important; } 
+.oranje {color: #10FC26!important; } 
 .green{color: #009900;}
 .grey{color: #898787;}
 .dark_grey{color: #363636;}
@@ -647,7 +647,7 @@ aside nav a {
   padding: 1.2em 1em 1.2em 2em;
 }
 
-aside .bloc a:hover {
+aside .bloc a:hover { 
   color: #000;
   text-decoration: underline;
 }
@@ -748,7 +748,7 @@ aside .newsletter input {width: 75%; }
 }
 
 .fr.oranje {font-size: 0.95em; text-decoration: underline; }
-.fr.oranje:hover {color: #fc9f10; }
+.fr.oranje:hover {color: #0022D0; }
 
 .finance-container article, .service-container article {
   margin-bottom: 3.5em;
